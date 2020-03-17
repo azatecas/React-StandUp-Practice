@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+
+}
+
+.jokes {
+  background-color: crimson;
+}
+.hide-punch {
+  visibility: hidden;
+  color: red;
+}
+
+.btn-cont {
+  display: flex;
+  justify-content: space-between;
+}
